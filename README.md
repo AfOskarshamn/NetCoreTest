@@ -1,0 +1,2 @@
+# NetCoreTest
+ÅF testar core
